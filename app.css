@@ -1,6 +1,13 @@
 body {
     padding: 50px;
+    background: #24272E;
 }
+
+header > h1 {
+    color: #4800ff;
+    text-align: left; 
+    font-family: Asap, sans-serif;
+    margin-left: 36px;
 
 #thumbs {
     margin-left: -6px;
