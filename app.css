@@ -79,7 +79,9 @@ header > h1 {
         background: #aaaaaa;
         animation: lds-circle 2.4s cubic-bezier(0, 0.2, 0.8, 1) infinite;
     }
-
+/*Added location on timeline to mark the beginning or end of transition 
+  Creates illusion of motion*/
+    
 @keyframes lds-circle {
     0%, 100% {
         animation-timing-function: cubic-bezier(0.5, 0, 1, 0.5);
